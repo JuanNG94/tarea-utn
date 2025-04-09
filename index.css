@@ -1,0 +1,35 @@
+.index {
+  background: rgb(103, 0, 255);
+  background: -moz-linear-gradient(
+    0deg,
+    rgba(103, 0, 255, 1) 0%,
+    rgba(255, 121, 20, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(103, 0, 255, 1) 0%,
+    rgba(255, 121, 20, 1) 100%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(103, 0, 255, 1) 0%,
+    rgba(255, 121, 20, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6700ff",endColorstr="#ff7914",GradientType=1);
+}
+
+.index header h1{
+    margin: auto;
+    text-align: center;
+}
+
+.index .index-div{
+    background-color: beige;
+    border: solid black 2px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px 20px;
+    column-count: 2;
+    column-gap: 20px;
+    box-shadow: 15px 20px 5px 2px black;
+}
