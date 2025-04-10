@@ -44,3 +44,7 @@
   margin: 0px 0px 0px 0px;
   color: #eff33b;
 }
+
+h1::after{
+  content: "✌️";
+}
