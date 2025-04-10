@@ -27,22 +27,11 @@
   text-align: center;
 }
 
-.index .index-div {
-  color: black;
-  background-color: beige;
-  border: solid black 2px;
-  margin: 20px;
-  border-radius: 20px;
-  padding: 20px 20px;
-  column-count: 2;
-  column-gap: 20px;
-  box-shadow: 15px 20px 5px 2px black;
-}
-
+.index .index-div,
 .index .p-2 {
-  color: black;
-  background-color: beige;
-  border: solid black 2px;
+  color: #bdbd9d;
+  background-color: black;
+  border: solid #bdbd9d 2px;
   margin: 20px;
   border-radius: 20px;
   padding: 20px 20px;
@@ -52,5 +41,6 @@
 }
 
 .index .index-h2 {
-  margin: 10px 20px 20px 20px;
+  margin: 0px 0px 0px 0px;
+  color: #eff33b;
 }
